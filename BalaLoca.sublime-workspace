@@ -1,0 +1,1083 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clean",
+				"clean_dma_oam"
+			],
+			[
+				"dam_t",
+				"dma_transfer_end"
+			],
+			[
+				"SAF",
+				"SAFE_MEMCPY_SRC_REG0"
+			],
+			[
+				"parti",
+				"particle\tconst"
+			],
+			[
+				"emi",
+				"emitter0\tproperty"
+			],
+			[
+				"Parti",
+				"ParticleEmitter\tclass"
+			],
+			[
+				"emit",
+				"emitter0\tproperty"
+			],
+			[
+				"tex",
+				"textureManager\twarning"
+			],
+			[
+				"acce",
+				"accelX\twarning"
+			],
+			[
+				"bu",
+				"buttonSpriteDemo1\tproperty"
+			],
+			[
+				"spr",
+				"buttonSpriteDemo1\tproperty"
+			],
+			[
+				"kernin",
+				"kerningsElement\tconst"
+			],
+			[
+				"sub",
+				"substring\tmethod"
+			],
+			[
+				"char",
+				"charX\tlet"
+			],
+			[
+				"text",
+				"textureManager\tparameter"
+			],
+			[
+				"respon",
+				"responseType\tproperty"
+			],
+			[
+				"respo",
+				"responseType\tproperty"
+			],
+			[
+				"rende",
+				"renderData\tproperty"
+			],
+			[
+				"sign",
+				"signSide\tproperty"
+			],
+			[
+				"len",
+				"length\twarning"
+			],
+			[
+				"sing",
+				"signSide\tproperty"
+			],
+			[
+				"sig",
+				"signSide\tproperty"
+			],
+			[
+				"rot",
+				"rotationY\tproperty"
+			],
+			[
+				"sca",
+				"scaleX\twarning"
+			],
+			[
+				"devi",
+				"devicePixelRatio\tproperty"
+			],
+			[
+				"textu",
+				"textureList\twarning"
+			],
+			[
+				"TEXU",
+				"TEXTURE0\twarning"
+			],
+			[
+				"blur",
+				"blurPass\tconst"
+			],
+			[
+				"curre",
+				"currentFragShaderPass\tproperty"
+			],
+			[
+				"blu",
+				"blurPass\tconst"
+			],
+			[
+				"sha",
+				"shaderPass\twarning"
+			],
+			[
+				"shade",
+				"shaderPass\tproperty"
+			],
+			[
+				"getFram",
+				"getFragmentShaderHeaderSource\twarning"
+			],
+			[
+				"draw",
+				"drawSprite\twarning"
+			],
+			[
+				"rota",
+				"rotation\twarning"
+			],
+			[
+				"TEX",
+				"TEXTURE_2D\twarning"
+			],
+			[
+				"matri",
+				"currentMatrixIndex\tproperty"
+			],
+			[
+				"vert",
+				"verticesF32\tconst"
+			],
+			[
+				"verti",
+				"verticesUint32View\tproperty"
+			],
+			[
+				"tuple",
+				"tupleList\tparameter"
+			],
+			[
+				"whiteTe",
+				"whiteTextureData\tconst"
+			],
+			[
+				"frame",
+				"fragmentShader\tconst"
+			],
+			[
+				"kMatrix",
+				"kMatrixStackCount\tconst"
+			],
+			[
+				"kMatr",
+				"kMatrixStackSize\twarning"
+			],
+			[
+				"kMatri",
+				"kMatrixSize\tconst"
+			],
+			[
+				"kMas",
+				"kMaxVertices\tconst"
+			],
+			[
+				"Array",
+				"ArrayBuffer\tconst"
+			],
+			[
+				"po",
+				"projectionMatrix\tproperty"
+			],
+			[
+				"tran",
+				"trasnparent"
+			],
+			[
+				"sphe",
+				"sphereA"
+			],
+			[
+				"sph",
+				"sphereA"
+			],
+			[
+				"flo",
+				"floorA"
+			],
+			[
+				"spe",
+				"sphereB"
+			],
+			[
+				"nor",
+				"normalize"
+			],
+			[
+				"nom",
+				"normalize"
+			],
+			[
+				"gl_F",
+				"gl_FragColor"
+			],
+			[
+				"gl_Fr",
+				"gl_FragCoord"
+			],
+			[
+				"bui",
+				"buildOutputName"
+			],
+			[
+				"bi",
+				"buildSize"
+			],
+			[
+				"bit",
+				"bigTmpBuffer1"
+			],
+			[
+				"pTile",
+				"pTileDescFile"
+			],
+			[
+				"pOt",
+				"pOutputName"
+			],
+			[
+				"pTi",
+				"pTileBinFile"
+			],
+			[
+				"outp",
+				"outputByteSize"
+			],
+			[
+				"pale",
+				"paletteIndices"
+			],
+			[
+				"pal",
+				"paletteIndex"
+			],
+			[
+				"OUT",
+				"OUTPUT_NAME"
+			],
+			[
+				"OU",
+				"OUTPUT_NAME"
+			],
+			[
+				"PRO",
+				"PROJECT_NAME"
+			],
+			[
+				"AS",
+				"ASM_FLAGS"
+			],
+			[
+				"PROJ",
+				"PROJECT_INCLUDE"
+			],
+			[
+				"PROJE",
+				"PROJECT_PATH"
+			],
+			[
+				"scen",
+				"scene"
+			],
+			[
+				"ro",
+				"roughness"
+			],
+			[
+				"Scene",
+				"SceneUnion"
+			],
+			[
+				"scene",
+				"SceneUnion"
+			],
+			[
+				"kof",
+				"KofkeEditor"
+			],
+			[
+				"config",
+				"configData"
+			],
+			[
+				"uL",
+				"uLightColor"
+			],
+			[
+				"uLig",
+				"uLightDir"
+			],
+			[
+				"Ndo",
+				"NdotL"
+			],
+			[
+				"readFIl",
+				"readFileSync"
+			],
+			[
+				"kofke",
+				"kofkeDataName"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"save",
+				"SaveState"
+			],
+			[
+				"Kok",
+				"KofkeEditor"
+			],
+			[
+				"loa",
+				"LoadState"
+			],
+			[
+				"open",
+				"open-file"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Fai",
+				"PrintFail"
+			],
+			[
+				"conne",
+				"connectionRetryCount"
+			],
+			[
+				"Kof",
+				"KofkeEditor"
+			],
+			[
+				"vari",
+				"variables"
+			],
+			[
+				"varia",
+				"variables"
+			],
+			[
+				"off",
+				"offsets"
+			],
+			[
+				"offs",
+				"offsetSize"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"loop",
+				"loopInput"
+			],
+			[
+				"alt",
+				"altKeyDown"
+			],
+			[
+				"stop",
+				"stopAtInput"
+			],
+			[
+				"cur",
+				"currentSelection"
+			],
+			[
+				"ge",
+				"getUniformLocation"
+			],
+			[
+				"dea",
+				"preventDefault"
+			],
+			[
+				"a",
+				"auto\tuser-select"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"al",
+				"altKeyDown"
+			],
+			[
+				"altC",
+				"altCtrlKeyUp"
+			],
+			[
+				"delt",
+				"deltaY"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"step",
+				"stepsToNextValue"
+			],
+			[
+				"last",
+				"lastFrame"
+			],
+			[
+				"INTERP",
+				"INTERP_NONE"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"addFra",
+				"addFrameBtn"
+			],
+			[
+				"init",
+				"initializeVariable"
+			],
+			[
+				"val",
+				"valueAsNumber"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"va",
+				"variable"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"layer",
+				"layersHeight"
+			],
+			[
+				"time",
+				"timelineUI"
+			],
+			[
+				"ci",
+				"clientY"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"Print",
+				"PrintSuccess"
+			],
+			[
+				"COMP",
+				"COMPLETE_WAITING"
+			],
+			[
+				"buildS",
+				"buildState"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code/include/memory.z80",
+			"settings":
+			{
+				"buffer_size": 4433,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "code/src/memory.z80",
+			"settings":
+			{
+				"buffer_size": 1681,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/gameboy/game/src/utils.z80",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/felip/AppData/Roaming/Sublime Text 3/Packages/User/BuildBat.sublime-build",
+			"settings":
+			{
+				"buffer_size": 100,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			}
+		},
+		{
+			"file": "code/src/entry_point.z80",
+			"settings":
+			{
+				"buffer_size": 1726,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublimelintersett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/gameboy/BalaLoca",
+		"/C/dev/gameboy/BalaLoca/code",
+		"/C/dev/gameboy/BalaLoca/code/include",
+		"/C/dev/gameboy/BalaLoca/code/src"
+	],
+	"file_history":
+	[
+		"/C/dev/gameboy/BalaLoca/code/include/registers.z80",
+		"/C/dev/gameboy/BalaLoca/code/include/memory.z80",
+		"/C/dev/gameboy/game/include/anim/anim_cube.z80",
+		"/C/dev/gameboy/BalaLoca/code/src/memory.z80",
+		"/C/xampp/htdocs/sg-demo/assets/fonts/Arial.fnt",
+		"/C/xampp/htdocs/sg-demo/js/stats.min.js",
+		"/C/Users/felip/AppData/Roaming/Sublime Text 3/Packages/TypeScript/tsserver/lib.dom.d.ts",
+		"/C/xampp/htdocs/sg-demo/js/demo1.js",
+		"/C/xampp/htdocs/sg-demo/demo1.js",
+		"/C/xampp/htdocs/sg-demo/app.js",
+		"/C/xampp/htdocs/sg-demo/sg-renderer-gl.js",
+		"/C/xampp/htdocs/sg-demo/gl-matrix.js",
+		"/C/xampp/htdocs/sg-demo/package.json",
+		"/C/xampp/htdocs/js1k-2019/src/commented-code.js",
+		"/C/xampp/htdocs/js1k-2019/src/code4.frag",
+		"/C/xampp/htdocs/js1k-2019/build/out.js",
+		"/C/xampp/htdocs/js1k-2019/shim.html",
+		"/C/xampp/htdocs/js1k-2019/src/code.js",
+		"/C/xampp/htdocs/js1k-2019/src/code5.frag",
+		"/C/xampp/htdocs/js1k-2019/build-collection/pbr-view.html",
+		"/C/xampp/htdocs/js1k-2019/build/tmp.js",
+		"/C/xampp/htdocs/js1k-2019/build/shim.html",
+		"/C/xampp/htdocs/js1k-2019/build-collection/skin-lamp.html",
+		"/C/xampp/htdocs/js1k-2019/build.js",
+		"/C/xampp/htdocs/js1k-2019/src/variables.js",
+		"/C/dev/gameboy/BalaLoca/code/include/data.z80",
+		"/C/dev/gameboy/BalaLoca/code/include/tile.inc",
+		"/C/dev/gameboy/BalaMuerta/tools/img2dmg/img2dmg.c",
+		"/C/dev/gameboy/BalaMuerta/tools/img2dmg/stb_image.h",
+		"/C/dev/gameboy/BalaMuerta/code/src/entry_point.z80",
+		"/C/dev/gameboy/game/src/main.z80",
+		"/C/dev/gameboy/game/src/intro.z80",
+		"/C/dev/gameboy/game/include/anim/anim_water.z80",
+		"/C/dev/gameboy/BalaMuerta/tools/img2dmg.c",
+		"/C/dev/gameboy/BalaMuerta/build.bat",
+		"/C/dev/texto.txt",
+		"/C/dev/text.xml",
+		"/C/Users/felip/Downloads/FelipeFernandez(Digitador)_KTDO_UniversalChurch(CaptionMaker)_23_01_2019_CC.doc",
+		"/C/Users/felip/Downloads/JuanaOlcay(Estenotipista)_Telemundo_NoticiasTelemundo(Catalyst)_26-01-2019_CC.docx",
+		"/C/dev/gameboy/BalaMuerta/build/entry_point.o",
+		"/C/dev/gameboy/BalaMuerta/code/src/menu.z80",
+		"/C/dev/gameboy/BalaMuerta/code/src/entry_point.asm",
+		"/C/dev/gameboy/BalaMuerta/code/src",
+		"/C/Users/felip/Desktop/chrome_gpu_capture.bat",
+		"/C/xampp/htdocs/shader-test/index.html",
+		"/C/dev/gameboy/BalaMuerta/build_gb.bat",
+		"/C/dev/voidptr.io/_work/Ninja Joe.md",
+		"/C/dev/voidptr.io/_work/shader-obsidian.md",
+		"/C/dev/voidptr.io/_work/Bonds.md",
+		"/C/dev/voidptr.io/_work/everknife.md",
+		"/C/dev/voidptr.io/_work/shader_tengo_calor.md",
+		"/C/dev/voidptr.io/_config.yml",
+		"/C/dev/voidptr.io/_work/roa2.md",
+		"/C/dev/voidptr.io/_work/Grumpy Cat.md",
+		"/C/dev/voidptr.io/_work/Phaser.md",
+		"/C/xampp/htdocs/noders-gl/editor/data/shaders/mvp_shader.vert",
+		"/C/xampp/htdocs/noders-gl/editor/data/shaders/mvp_shader.frag",
+		"/C/xampp/htdocs/noders-gl/editor/data/shaders/diffuse_shader.frag",
+		"/C/xampp/htdocs/js1k-2019/kofke/index.html",
+		"/C/xampp/htdocs/js1k-2019/src/config.json",
+		"/C/xampp/htdocs/js1k-2019/src/code-editor.js",
+		"/C/xampp/htdocs/js1k-2019/kofke/kofke-runtime-template.js",
+		"/C/xampp/htdocs/js1k-2019/src/c.frag",
+		"/C/xampp/htdocs/js1k-2019/src/code.frag",
+		"/C/xampp/htdocs/js1k-2019/index.html",
+		"/C/xampp/htdocs/js1k-2019/kofke-intro/index.html",
+		"/C/xampp/htdocs/js1k-2019/src/intro-code-template.js",
+		"/C/xampp/htdocs/js1k-2019/src/code3.frag",
+		"/C/xampp/htdocs/js1k-2019/kofke-intro/intro.js",
+		"/C/xampp/htdocs/js1k-2019/kofke-intro.html",
+		"/C/xampp/htdocs/js1k-2019/kofke/intro.json",
+		"/C/xampp/htdocs/js1k-2019/kofke/kofke-runtime-min.js",
+		"/C/xampp/htdocs/js1k-2019/kofke/kofke-runtime.js",
+		"/C/xampp/htdocs/js1k-2019/kofke/kofke-editor.js",
+		"/C/xampp/htdocs/js1k-2019/package.json",
+		"/C/xampp/htdocs/js1k-2019/kofke/tracker-data.json",
+		"/C/xampp/htdocs/js1k-2019/tracker-data.json",
+		"/C/xampp/htdocs/js1k-2019/npm-debug.log",
+		"/C/xampp/htdocs/Kofke/timeline-renderer.js",
+		"/C/xampp/htdocs/js1k-2019/src/code2.frag",
+		"/C/xampp/htdocs/js1k-2019/src/code-full.js",
+		"/C/xampp/htdocs/js1k-2019/.gitignore",
+		"/C/xampp/htdocs/js1k-2019/build/fs.min.frag",
+		"/C/xampp/htdocs/js1k-2019/src/code1.frag",
+		"/C/xampp/htdocs/js1k-2019/code.frag",
+		"/C/xampp/htdocs/js13kgames/build.js",
+		"/C/xampp/htdocs/js1k-2019/demo.js",
+		"/C/xampp/htdocs/js1k-2019/d.js",
+		"/C/xampp/htdocs/js1k-2019/a.js",
+		"/C/xampp/htdocs/js1k-2019/extern/RegPack-5.0.2/bin/regpack",
+		"/C/xampp/htdocs/js1k-2019/extern/RegPack-5.0.2/contextDescriptor_node.js",
+		"/C/Users/felip/Downloads/RegPack-5.0.2/RegPack-5.0.2/bin/regpack",
+		"/C/Users/felip/Downloads/RegPack-5.0.2/RegPack-5.0.2/regPack.js",
+		"/C/xampp/htdocs/js1k-2019/primes.js",
+		"/C/xampp/htdocs/js1k-2019/fs.min.frag",
+		"/C/dev/raytracer/raytracer/raytracer/output.tga",
+		"/C/dev/raytracer/raytracer/bench.tga",
+		"/C/dev/raytracer/raytracer/build/Win32/Debug/output.tga",
+		"/C/xampp/htdocs/graphics3d/extern/gl-matrix.js",
+		"/C/dev/voidptr.io/_layouts/experiment.html",
+		"/C/dev/voidptr.io/_work/shader-1999.md",
+		"/C/dev/voidptr.io/_work/shader-bouncy.md",
+		"/C/dev/voidptr.io/_work/shader-plasmaboy-cartridge.md",
+		"/C/dev/voidptr.io/_work/shader-jello.md",
+		"/C/dev/voidptr.io/_work/shader-quesitos-magicos.md",
+		"/C/dev/voidptr.io/about.md",
+		"/C/dev/voidptr.io/experiments.md",
+		"/C/xampp/htdocs/particles/gl-matrix-min.js",
+		"/C/dev/voidptr.io/_site/blog/2016/02/05/DamnBASIC-Part-1.html",
+		"/C/dev/voidptr.io/_layouts/post.html",
+		"/C/dev/voidptr.io/_includes/head.html",
+		"/C/dev/gamedev/TP2BIN/data.json",
+		"/C/dev/gamedev/TP2BIN/tp2bin.js",
+		"/C/dev/gamedev/SUE/SUE/tools/tp2bin.js",
+		"/C/xampp/htdocs/phaser/src/display/mask/GeometryMask.js",
+		"/C/xampp/htdocs/phaser/src/renderer/webgl/pipelines/FlatTintPipeline.js",
+		"/C/xampp/htdocs/phaser/src/renderer/webgl/WebGLRenderer.js",
+		"/C/xampp/htdocs/phaser3-examples/public/src/game objects/tilemap/dynamic/base tile size.js",
+		"/C/xampp/htdocs/phaser/src/renderer/webgl/pipelines/TextureTintPipeline.js",
+		"/C/xampp/htdocs/phaser/src/tilemaps/dynamiclayer/DynamicTilemapLayerWebGLRenderer.js",
+		"/C/xampp/htdocs/phaser/src/cameras/2d/Camera.js",
+		"/C/xampp/htdocs/phaser/src/tilemaps/components/CullTiles.js",
+		"/C/xampp/htdocs/phaser/src/cameras/controls/FixedKeyControl.js",
+		"/C/xampp/htdocs/phaser/src/renderer/webgl/Utils.js",
+		"/C/xampp/htdocs/phaser3-examples/public/src/game objects/container/get bounds test 1.js",
+		"/C/xampp/htdocs/phaser3-examples/public/src/game objects/container/angle compare 2.js",
+		"/C/xampp/htdocs/phaser/src/gameobjects/components/TransformMatrix.js",
+		"/C/xampp/htdocs/phaser/src/gameobjects/container/ContainerCanvasRenderer.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$FE",
+			"OAM",
+			"HRAM",
+			"OAM",
+			"_REG0",
+			"_REG1",
+			"blank",
+			"vblank"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$C1",
+			"SPRITE",
+			"_HIGH",
+			"_LOW"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code/include/memory.z80",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "code/src/memory.z80",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/dev/gameboy/game/src/utils.z80",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/felip/AppData/Roaming/Sublime Text 3/Packages/User/BuildBat.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "code/src/entry_point.z80",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1312,
+								1312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.269230769231,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 286.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "BalaLoca.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

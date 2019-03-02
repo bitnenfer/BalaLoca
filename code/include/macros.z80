@@ -1,0 +1,8 @@
+ORG: MACRO 
+    SECTION "ORG_\@", ROM0[\1]
+    ENDM
+
+INCLUDE_ASSET: MACRO
+\1: 
+    incbin \2
+    ENDM
