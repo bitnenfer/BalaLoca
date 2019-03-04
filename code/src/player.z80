@@ -1,0 +1,58 @@
+section "PLAYER",ROM0
+    
+    include "registers.z80"
+    include "memory.z80"
+
+player_init::
+    ld a,LCD_WIDTH / 2
+    ld [SPRITE0_X],a
+    ld a,LCD_HEIGHT / 2
+    ld [SPRITE0_Y],a
+    ld a,$19
+    ld [SPRITE0_TILE],a
+    ret
+
+player_update::
+    ; load current directional buttons
+    ld a,%00001000
+    ld [JOYP],a
+    ld a,[JOYP]
+
+    ; update player position based on button state
+.check_btn_down:
+    bit $03,a
+    jr nz,.check_btn_up
+    ld a,[SPRITE0_Y]
+    inc a
+    ld [SPRITE0_Y],a
+    jr .check_btn_left
+
+.check_btn_up:
+    bit $02,a
+    jr nz,.check_btn_left
+    ld a,[SPRITE0_Y]
+    dec a
+    ld [SPRITE0_Y],a
+    
+.check_btn_left:
+    ld a,[JOYP]
+    bit $01,a
+    jr nz,.check_btn_right
+    ld a,[SPRITE0_X]
+    dec a
+    ld [SPRITE0_X],a
+    jr .check_btn_end
+
+.check_btn_right:
+    bit $00,a
+    jr nz,.check_btn_end
+    ld a,[SPRITE0_X]
+    inc a
+    ld [SPRITE0_X],a
+    jr .check_btn_end
+
+.check_btn_end:
+    ret
+
+section "PLAYER_VARS",WRAM0
+

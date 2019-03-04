@@ -77,14 +77,7 @@ main:
 
     call init_dma
 
-    ld a,LCD_WIDTH/2
-    ld [SPRITE0_X],a
-    ld a,LCD_HEIGHT/2
-    ld [SPRITE0_Y],a
-    ld a,$19
-    ld [SPRITE0_TILE],a
-
-    call dma_transfer
+    call player_init
 
     ; turn on lcd
     ld a,[LCDC]
@@ -94,14 +87,11 @@ main:
     ld [LCDC],a
 
 loop:
-    ld a,[SPRITE0_X]
-    inc a
-    ld [SPRITE0_X],a
+    call wait_vblank
+    call player_update    
     call dma_transfer
     jr loop
 
-some_data:
-    db $01, $02, $03, $04, "ABCDEF"
 
     INCLUDE_ASSET tile_data, "tile.bin"
 

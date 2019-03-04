@@ -1,0 +1,11 @@
+section "UTILS",ROM0
+
+    include "registers.z80"
+
+wait_vblank::
+.wait:
+    ld a,[LCDS]
+    and a,$03
+    cp $01
+    jr nz,.wait
+    ret

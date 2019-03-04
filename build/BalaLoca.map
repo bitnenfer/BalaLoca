@@ -5,23 +5,34 @@ ROM Bank #0 (HOME):
   SECTION: $0058-$0058 ($0001 bytes) ["ORG__3"]
   SECTION: $0060-$0060 ($0001 bytes) ["ORG__4"]
   SECTION: $0100-$014F ($0050 bytes) ["ORG__5"]
-  SECTION: $0150-$180A ($16BB bytes) ["EntryPoint"]
+  SECTION: $0150-$17F0 ($16A1 bytes) ["EntryPoint"]
            $0150 = main
-           $0175 = loop
-  SECTION: $0061-$00C5 ($0065 bytes) ["Memory"]
+           $0166 = loop
+  SECTION: $0061-$00C4 ($0064 bytes) ["Memory"]
            $0061 = dma_transfer_start
-           $006C = dma_transfer_end
-           $0085 = unsafe_memcpy
-           $007D = init_dma.clean_dma_oam
-           $0085 = unsafe_memcpy.rep_memstore
-           $0094 = safe_vram_memcpy.check_vram_access
-           $00AB = safe_oam_memcpy.check_oam_access
-           $006C = init_dma
-           $0094 = safe_vram_memcpy
-           $00AB = safe_oam_memcpy
-    SLACK: $288B bytes
+           $006B = dma_transfer_end
+           $0084 = unsafe_memcpy
+           $007C = init_dma.clean_dma_oam
+           $0084 = unsafe_memcpy.rep_memstore
+           $0093 = safe_vram_memcpy.check_vram_access
+           $00AA = safe_oam_memcpy.check_oam_access
+           $006B = init_dma
+           $0093 = safe_vram_memcpy
+           $00AA = safe_oam_memcpy
+  SECTION: $17F1-$183B ($004B bytes) ["PLAYER"]
+           $1814 = player_update.check_btn_up
+           $181F = player_update.check_btn_left
+           $182E = player_update.check_btn_right
+           $183B = player_update.check_btn_end
+           $1801 = player_update
+           $17F1 = player_init
+  SECTION: $0000-$0008 ($0009 bytes) ["UTILS"]
+           $0000 = wait_vblank.wait
+           $0000 = wait_vblank
+    SLACK: $2852 bytes
 
 WRAM Bank #0:
+  SECTION: $C000 ($0 bytes) ["PLAYER_VARS"]
   EMPTY
 
 WRAM Bank #1:

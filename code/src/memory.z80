@@ -11,7 +11,13 @@ dma_transfer_start:
     ld a,$28
 .wait:
     dec a
-    jp nz,$FF86
+    ; the assembler is stupid
+    ; I can't do proper relative jump 
+    ; with constants :) so we just
+    ; write the op codes by hand
+    db $20
+    db $FD
+    ;jr nz,$FD
     ret
 dma_transfer_end:
 
