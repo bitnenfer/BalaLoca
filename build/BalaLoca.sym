@@ -2,6 +2,8 @@
 
 00:0150 main
 00:0166 loop
+00:0000 wait_vblank.wait
+00:0000 wait_vblank
 00:0061 dma_transfer_start
 00:006B dma_transfer_end
 00:0084 unsafe_memcpy
@@ -18,5 +20,3 @@
 00:183B player_update.check_btn_end
 00:1801 player_update
 00:17F1 player_init
-00:0000 wait_vblank.wait
-00:0000 wait_vblank

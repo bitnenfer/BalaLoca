@@ -8,6 +8,9 @@ ROM Bank #0 (HOME):
   SECTION: $0150-$17F0 ($16A1 bytes) ["EntryPoint"]
            $0150 = main
            $0166 = loop
+  SECTION: $0000-$0008 ($0009 bytes) ["UTILS"]
+           $0000 = wait_vblank.wait
+           $0000 = wait_vblank
   SECTION: $0061-$00C4 ($0064 bytes) ["Memory"]
            $0061 = dma_transfer_start
            $006B = dma_transfer_end
@@ -26,9 +29,6 @@ ROM Bank #0 (HOME):
            $183B = player_update.check_btn_end
            $1801 = player_update
            $17F1 = player_init
-  SECTION: $0000-$0008 ($0009 bytes) ["UTILS"]
-           $0000 = wait_vblank.wait
-           $0000 = wait_vblank
     SLACK: $2852 bytes
 
 WRAM Bank #0:

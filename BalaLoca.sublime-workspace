@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"check",
+				"check_btn_end"
+			],
+			[
+				"SPRT",
+				"SPRITE0_Y"
+			],
+			[
+				"SP",
+				"SPRITE0_Y"
+			],
+			[
 				"clean",
 				"clean_dma_oam"
 			],
@@ -502,18 +514,6 @@
 			[
 				"cli",
 				"clientX"
-			],
-			[
-				"Print",
-				"PrintSuccess"
-			],
-			[
-				"COMP",
-				"COMPLETE_WAITING"
-			],
-			[
-				"buildS",
-				"buildState"
 			]
 		]
 	},
@@ -532,43 +532,43 @@
 			"file": "code/src/memory.z80",
 			"settings":
 			{
-				"buffer_size": 1681,
+				"buffer_size": 1839,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/dev/gameboy/game/src/utils.z80",
+			"file": "code/src/utils.z80",
 			"settings":
 			{
-				"buffer_size": 1006,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/felip/AppData/Roaming/Sublime Text 3/Packages/User/BuildBat.sublime-build",
-			"settings":
-			{
-				"buffer_size": 100,
+				"buffer_size": 137,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "untitled.sublime-build"
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "code/src/entry_point.z80",
 			"settings":
 			{
-				"buffer_size": 1726,
+				"buffer_size": 1551,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/dev/tools/Lucuma/.gitignore",
+			"file": "code/src/player.z80",
 			"settings":
 			{
-				"buffer_size": 5645,
+				"buffer_size": 966,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "code/src/joypad.z80",
+			"settings":
+			{
+				"buffer_size": 0,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -662,6 +662,9 @@
 	],
 	"file_history":
 	[
+		"/C/dev/gameboy/game/src/utils.z80",
+		"/C/Users/felip/AppData/Roaming/Sublime Text 3/Packages/User/BuildBat.sublime-build",
+		"/C/dev/tools/Lucuma/.gitignore",
 		"/C/dev/gameboy/BalaLoca/code/include/registers.z80",
 		"/C/dev/gameboy/BalaLoca/code/include/memory.z80",
 		"/C/dev/gameboy/game/include/anim/anim_cube.z80",
@@ -786,10 +789,7 @@
 		"/C/xampp/htdocs/phaser/src/tilemaps/components/CullTiles.js",
 		"/C/xampp/htdocs/phaser/src/cameras/controls/FixedKeyControl.js",
 		"/C/xampp/htdocs/phaser/src/renderer/webgl/Utils.js",
-		"/C/xampp/htdocs/phaser3-examples/public/src/game objects/container/get bounds test 1.js",
-		"/C/xampp/htdocs/phaser3-examples/public/src/game objects/container/angle compare 2.js",
-		"/C/xampp/htdocs/phaser/src/gameobjects/components/TransformMatrix.js",
-		"/C/xampp/htdocs/phaser/src/gameobjects/container/ContainerCanvasRenderer.js"
+		"/C/xampp/htdocs/phaser3-examples/public/src/game objects/container/get bounds test 1.js"
 	],
 	"find":
 	{
@@ -836,7 +836,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -864,7 +864,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -873,15 +873,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1681,
+						"buffer_size": 1839,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								297,
-								297
+								245,
+								245
 							]
 						],
 						"settings":
@@ -892,31 +892,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/C/dev/gameboy/game/src/utils.z80",
+					"file": "code/src/utils.z80",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1006,
+						"buffer_size": 137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								95,
-								95
+								121,
+								121
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Z80 Assembly/z80.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -927,53 +925,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/felip/AppData/Roaming/Sublime Text 3/Packages/User/BuildBat.sublime-build",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 4,
 					"file": "code/src/entry_point.z80",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1726,
+						"buffer_size": 1551,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1312,
-								1312
+								1291,
+								1291
 							]
 						],
 						"settings":
@@ -983,38 +947,66 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1104.0,
+						"translation.y": 288.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "/C/dev/tools/Lucuma/.gitignore",
+					"buffer": 4,
+					"file": "code/src/player.z80",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5645,
+						"buffer_size": 966,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5645,
-								5645
+								158,
+								158
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4689.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "code/src/joypad.z80",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Z80 Assembly/z80.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1037,18 +1029,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.269230769231,
 			1.0
 		],
 		"rows":
@@ -1104,7 +1089,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
